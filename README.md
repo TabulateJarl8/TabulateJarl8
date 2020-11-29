@@ -25,4 +25,4 @@ Hi, I am Tabulate. I mainly use Python but I'm also expirienced in full stack de
 ![GIMP](https://img.shields.io/badge/-GIMP-5C5543?style=flat-square&logo=gimp)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TabulateJarl8&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TabulateJarl8&hide=TeX&layout=compact
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TabulateJarl8&hide=TeX&layout=compact)
