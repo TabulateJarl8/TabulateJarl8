@@ -5,7 +5,7 @@ Hi, I am Tabulate. I mainly use Python but I'm also expirienced in full stack de
 [![Steam Badge](https://img.shields.io/badge/-Steam-1E1E1E?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198872425795)](https://steamcommunity.com/profiles/76561198872425795)
 [![Gmail Badge](https://img.shields.io/badge/-***REMOVED***-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:***REMOVED***)](mailto:***REMOVED***)
 
-## Software
+## Software/Languages
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu%20bash)
