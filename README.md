@@ -16,7 +16,7 @@ Hi, I am Tabulate. I mainly use Python but I'm also expirienced in full stack de
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
 ## Frameworks
-![jQuery](https://img.shields.io/badge/-JQuery-0769AD?style=flat-square&logo=jquery)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
