@@ -5,14 +5,16 @@ Hi, I am Tabulate. I mainly use Python but I'm also expirienced in full stack de
 [![Steam Badge](https://img.shields.io/badge/-Steam-1E1E1E?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198872425795)](https://steamcommunity.com/profiles/76561198872425795)
 [![Gmail Badge](https://img.shields.io/badge/-***REMOVED***-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:***REMOVED***)](mailto:***REMOVED***)
 
-## Programming Languages
+## Programming/Markup Languages
 
 ![Python](https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu%20bash)
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu%20bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Powershell](https://img.shields.io/badge/-Powershell-black?style=flat-square&logo=powershell)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?&style=flat-square&logo=latex&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
 ## Frameworks
