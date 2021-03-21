@@ -32,4 +32,4 @@ Hi, I am Tabulate. I mainly use Python but I'm also expirienced in full stack de
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TabulateJarl8&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TabulateJarl8&hide=shell,TeX&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TabulateJarl8&hide=TeX&layout=compact&theme=tokyonight&exclude_repo=academiic-public,files)
