@@ -5,6 +5,16 @@ Hi, I am Tabulate. I mainly use Python but I'm also expirienced in full stack de
 [![Steam Badge](https://img.shields.io/badge/-Steam-1E1E1E?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198872425795)](https://steamcommunity.com/profiles/76561198872425795)
 [![Reddit Badge](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white&link=https://reddit.com/u/TabulateJarl8)](https://reddit.com/u/TabulateJarl8)
 
+## Interesting projects
+
+[ImaginaryInfinity Calculator](https://gitlab.com/TurboWafflz/ImaginaryInfinity-Calculator/-/tree/development) - an expandable calculator designed to resemble that of some graphing calculators. New functionality can easily be added by installing user created plugins and themes via the built in package manager.
+
+[ti842py](https://github.com/TabulateJarl8/ti842py) - A TI-BASIC to Python 3 transpiler
+
+[randfacts](https://github.com/TabulateJarl8/randfacts) - A Python module that generates random facts
+
+[Modpack Switcher](https://github.com/TabulateJarl8/modpackSwitcher) -  Utility to allow for having multiple minecraft worlds/modpacks using one server host
+
 
 ## Programming/Markup Languages
 
