@@ -13,6 +13,8 @@ Hi, I am Tabulate. I mainly use Python but I'm also expirienced in full stack de
 
 [randfacts](https://github.com/TabulateJarl8/randfacts) - A Python module that generates random facts
 
+[Academiic](https://github.com/TabulateJarl8/academiic-public) - Still in beta development. Academiic is a website that aims to connect to user accounts from a bunch of different learning management systems, like google classroom and canvas, and bring it all into one location for organizational and convenience purposes.
+
 [Modpack Switcher](https://github.com/TabulateJarl8/modpackSwitcher) -  Utility to allow for having multiple minecraft worlds/modpacks using one server host
 
 
