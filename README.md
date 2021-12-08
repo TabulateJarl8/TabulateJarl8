@@ -4,7 +4,7 @@ Hi, I am Tabulate. I mainly use Python, but I know a variety of other languages 
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11591238/tabulate)](https://stackoverflow.com/users/11591238/tabulate)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198872425795)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/TabulateJarl8)
-[![GitLab](https://img.shields.io/badge/Gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/TabulateJarl8)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/TabulateJarl8)
 
 ## Interesting projects
 
