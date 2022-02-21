@@ -16,6 +16,8 @@ Hi, I am Tabulate. I mainly use Python, but I know a variety of other languages 
 
 [Academiic](https://gitlab.com/ImaginaryInfinity/academiic) - Still in beta development. Academiic is a website that aims to connect to user accounts from a bunch of different learning management systems, like google classroom and canvas, and bring it all into one location for organizational and convenience purposes.
 
+[Wordle Finder](https://github.com/TabulateJarl8/wordle-finder) - A cross-platform CLI/GUI utility to assist in finding the word for rhe game "Wordle" and other similar knock-offs. Written in Rust using WebView for the GUI
+
 [Modpack Switcher](https://github.com/TabulateJarl8/modpackSwitcher) -  Utility to allow for having multiple minecraft worlds/modpacks using one server host
 
 
