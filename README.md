@@ -10,6 +10,8 @@ Hi, I am Tabulate. I mainly use Python, but I know a variety of other languages 
 
 ## Interesting projects
 
+[Squiid Calculator](gitlab.com/ImaginaryInfinity/squiid-calculator/squiid) - Squiid is a modular calculator written in Rust. It is currently very early in development but it is intended to be the successor to ImaginaryInfinity Calculator.
+
 [ImaginaryInfinity Calculator](https://gitlab.com/TurboWafflz/ImaginaryInfinity-Calculator/-/tree/development) - an expandable calculator designed to resemble that of some graphing calculators. New functionality can easily be added by installing user created plugins and themes via the built in package manager.
 
 [ti842py](https://github.com/TabulateJarl8/ti842py) - A TI-BASIC to Python 3 transpiler
