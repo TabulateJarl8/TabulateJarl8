@@ -27,6 +27,7 @@ Hi, I am Tabulate. I mainly use Python, but I know a variety of other languages 
 
 ## Programming/Markup Languages
 
+[![Rust](https://img.shields.io/badge/rust-%238C5234.svg?style=for-the-badge&logo=rust&logoColor=black)](https://www.rust-lang.org/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
 [![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
@@ -35,13 +36,12 @@ Hi, I am Tabulate. I mainly use Python, but I know a variety of other languages 
 [![Powershell](https://img.shields.io/badge/Powershell-white.svg?style=for-the-badge&logo=powershell&logoColor=%23207bcd)](https://docs.microsoft.com/en-us/powershell/)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
-[![Rust](https://img.shields.io/badge/rust-%238C5234.svg?style=for-the-badge&logo=rust&logoColor=black)](https://www.rust-lang.org/)
 
 ## Frameworks/Libraries
 [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Hugo](https://img.shields.io/badge/hugo-%23FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white)](https://gohugo.io/)
 
 ## Design
 [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
@@ -56,7 +56,6 @@ Hi, I am Tabulate. I mainly use Python, but I know a variety of other languages 
 
 ## Hosting
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com)
-[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
 
 ## OS/Other tools
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
