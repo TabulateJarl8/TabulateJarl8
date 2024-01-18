@@ -36,6 +36,7 @@ Hi, I am Tabulate. I mainly use Python, but I know a variety of other languages 
 [![Powershell](https://img.shields.io/badge/Powershell-white.svg?style=for-the-badge&logo=powershell&logoColor=%23207bcd)](https://docs.microsoft.com/en-us/powershell/)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![NASM](https://img.shields.io/badge/nasm-%23113C6B.svg?style=for-the-badge&logo=nasm&logoColor=white)](https://www.nasm.us/)
 
 ## Frameworks/Libraries
 [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
