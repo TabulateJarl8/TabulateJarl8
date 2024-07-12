@@ -33,7 +33,7 @@ Hey, I'm Connor Sample. I started programming around 2014, and I know a wide var
 [![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![LaTeX](https://img.shields.io/badge/latex-008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![NASM](https://img.shields.io/badge/nasm-%23113C6B.svg?style=for-the-badge&logo=nasm&logoColor=white)](https://www.nasm.us/)
 
 ## Frameworks/Libraries
