@@ -11,7 +11,7 @@ Hey, I'm Connor Sample. I started programming around 2014, and I know a wide var
 
 [Squiid Calculator](https://gitlab.com/ImaginaryInfinity/squiid-calculator/squiid) - Squiid is a modular calculator written in Rust. It is currently very early in development but it is intended to be the successor to ImaginaryInfinity Calculator.
 
-[ImaginaryInfinity Calculator](https://gitlab.com/TurboWafflz/ImaginaryInfinity-Calculator/-/tree/development) - an expandable calculator designed to resemble that of some graphing calculators. New functionality can easily be added by installing user created plugins and themes via the built in package manager.
+[Vapor](https://github.com/TabulateJarl8/vapor) - Python package built on Textual which offers a simple Terminal User Interface for checking ProtonDB compatibility ratings of games in a Steam user's library.
 
 [ti842py](https://github.com/TabulateJarl8/ti842py) - A TI-BASIC to Python 3 transpiler
 
@@ -32,19 +32,20 @@ Hey, I'm Connor Sample. I started programming around 2014, and I know a wide var
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Powershell](https://img.shields.io/badge/Powershell-white.svg?style=for-the-badge&logo=powershell&logoColor=%23207bcd)](https://docs.microsoft.com/en-us/powershell/)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![NASM](https://img.shields.io/badge/nasm-%23113C6B.svg?style=for-the-badge&logo=nasm&logoColor=white)](https://www.nasm.us/)
 
 ## Frameworks/Libraries
 [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-1a1a1a?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
+[![Tauri](https://img.shields.io/badge/tauri-black?style=for-the-badge&logo=tauri&logoColor=24C8D8)](https://tauri.app/)
+[![Poetry](https://img.shields.io/badge/poetry-1e293b?style=for-the-badge&logo=poetry&logoColor=60A5FA)](https://python-poetry.org/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Hugo](https://img.shields.io/badge/hugo-%23FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white)](https://gohugo.io/)
 
 ## Design
-[![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 [![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)](https://www.gimp.org/)
 [![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)](https://inkscape.org/)
 [![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)](https://www.audacityteam.org/)
@@ -54,14 +55,12 @@ Hey, I'm Connor Sample. I started programming around 2014, and I know a wide var
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TabulateJarl8)
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/TabulateJarl8)
 
-## Hosting
-[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com)
-
 ## OS/Other tools
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
 [![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white)](https://bitwarden.com/)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TabulateJarl8&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
