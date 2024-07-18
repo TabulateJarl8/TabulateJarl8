@@ -63,5 +63,5 @@ Hey, I'm Connor Sample. I started programming around 2014, and I know a wide var
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TabulateJarl8&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TabulateJarl8&hide=TeX&layout=compact&theme=tokyonight&exclude_repo=academiic-public,files)
+![Github Stats](https://github-readme-stats-phi-swart-79.vercel.app/api?username=TabulateJarl8&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-phi-swart-79.vercel.app/api/top-langs/?username=TabulateJarl8&hide=TeX,css,scss,dart,jupyter%20notebook,typst&langs_count=8&layout=compact&theme=tokyonight&exclude_repo=academiic-public,files,dotfiles,school)
