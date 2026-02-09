@@ -40,10 +40,10 @@ Hey, I'm Connor Sample. I started programming around 2014, and I know a wide var
 ## Frameworks/Libraries
 [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-1a1a1a?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
-[![Tauri](https://img.shields.io/badge/tauri-black?style=for-the-badge&logo=tauri&logoColor=24C8D8)](https://tauri.app/)
-[![Poetry](https://img.shields.io/badge/poetry-1e293b?style=for-the-badge&logo=poetry&logoColor=60A5FA)](https://python-poetry.org/)
+[![Tauri](https://img.shields.io/badge/tauri-1a1a1a?style=for-the-badge&logo=tauri&logoColor=24C8D8)](https://tauri.app/)
+[![uv](https://img.shields.io/badge/uv-1a1a1a?style=for-the-badge&logo=uv&logoColor=DE5FE9)](https://python-poetry.org/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Flask](https://img.shields.io/badge/flask-black.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Hugo](https://img.shields.io/badge/hugo-%23FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white)](https://gohugo.io/)
 
 ## Design
