@@ -1,9 +1,10 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L3L7IO2)
+![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)
 [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white&link=https://pypi.org/user/Tabulate/)](https://pypi.org/user/Tabulate/)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11591238/tabulate)](https://stackoverflow.com/users/11591238/tabulate)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198872425795)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/TabulateJarl8)
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/TabulateJarl8)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=FC6D26)](https://gitlab.com/TabulateJarl8)
 
 Hey, I'm Connor Sample. I started programming around 2014, and I know a wide variety of programming languages. I'm most proficient in Rust and Python, but I have ranging levels of experience using many languages from JavaScript to Bash to C to Java, and I pick up new languages fairly quickly. I'm an avid Linux user and I have skills in managing both desktop and server environments. I'm currently a student at James Madison University pursuing a degree in Computer Science with a minor in Music. After I graduate, I'd like to get a job in something I'm interested in, such as OS/systems development, networking, backend development, sysadmin, or something similar. Other than technology, I also really love music. I'm mainly a percussionist, but I also play guitar and tuba. I've been playing music since 2015 and I've played in a variety of ensembles, from high school wind ensemble and marching band to the MRDs at JMU.
 
