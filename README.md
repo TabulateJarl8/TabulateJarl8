@@ -28,33 +28,33 @@ Hey, I'm Connor Sample. I started programming around 2014, and I know a wide var
 
 [![Rust](https://img.shields.io/badge/rust-white.svg?style=for-the-badge&logo=rust&logoColor=black)](https://www.rust-lang.org/)
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffce3d)](https://python.org)
-[![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
+[![Bash](https://img.shields.io/badge/Bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
 [![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![CSS](https://img.shields.io/badge/css-663399.svg?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![LaTeX](https://img.shields.io/badge/latex-008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![Typst](https://img.shields.io/badge/typst-239DAD.svg?style=for-the-badge&logo=typst&logoColor=white)](https://typst.app/)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![NASM](https://img.shields.io/badge/nasm-%23113C6B.svg?style=for-the-badge&logo=nasm&logoColor=white)](https://www.nasm.us/)
+[![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![NASM](https://img.shields.io/badge/nasm-113C6B.svg?style=for-the-badge&logo=nasm&logoColor=white)](https://www.nasm.us/)
 
 ## Frameworks/Libraries
-[![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+[![jQuery](https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-1a1a1a?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
 [![Tauri](https://img.shields.io/badge/tauri-1a1a1a?style=for-the-badge&logo=tauri&logoColor=24C8D8)](https://tauri.app/)
 [![uv](https://img.shields.io/badge/uv-1a1a1a?style=for-the-badge&logo=uv&logoColor=DE5FE9)](https://python-poetry.org/)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Flask](https://img.shields.io/badge/flask-black.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Hugo](https://img.shields.io/badge/hugo-%23FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white)](https://gohugo.io/)
+[![Hugo](https://img.shields.io/badge/hugo-FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white)](https://gohugo.io/)
 
 ## Design
-[![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)](https://www.gimp.org/)
+[![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-8C8073?style=for-the-badge&logo=gimp&logoColor=FFFFFF)](https://www.gimp.org/)
 [![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)](https://inkscape.org/)
 [![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)](https://www.audacityteam.org/)
 
 ## Version Control
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TabulateJarl8)
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/TabulateJarl8)
+[![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TabulateJarl8)
+[![GitLab](https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=FC6D26)](https://gitlab.com/TabulateJarl8)
 
 ## OS/Other tools
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
