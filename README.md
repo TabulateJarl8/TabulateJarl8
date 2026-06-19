@@ -5,7 +5,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/TabulateJarl8)
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=FC6D26)](https://gitlab.com/TabulateJarl8)
 
-Hey, I'm Connor Sample. I started programming around 2014, and I know a wide variety of programming languages. I'm most proficient in Rust and Python, but I have ranging levels of experience using many languages from JavaScript to Bash to C to Java, and I pick up new languages fairly quickly. I'm an avid Linux user and I have skills in managing both desktop and server environments. I'm currently a student at James Madison University pursuing a degree in Computer Science with a minor in Music. After I graduate, I'd like to get a job in something I'm interested in, such as OS/systems development, networking, backend development, sysadmin, or something similar. Other than technology, I also really love music. I'm mainly a percussionist, but I also play guitar and tuba. I've been playing music since 2015 and I've played in a variety of ensembles, from high school wind ensemble and marching band to the MRDs at JMU.
+Hey, I'm Connor Sample. I started programming around 2014, and over the years I've worked with a wide variety of technologies. I'm most proficient in Rust and Python, but I have experience using many other languages such as C, Java, TypeScript, and Bash to name a few. I'm a fast learner and I pick up new languages and concepts fairly quickly. As an avid advocate for open-source and Linux, I am LFCS certified and have been managing both desktop and server environments since 2020. I'm currently a student at James Madison University pursuing a degree in Computer Science with a minor in Music. After I graduate, I hope to pursue a low-level role in OS development, firmware, networking, or Linux sysadmin. Other than technology, I also really love music. I'm primarily a percussionist, but I also play guitar and tuba. I've been playing music since 2015 and I've played in a variety of ensembles, including the MRDs and concert band at JMU.
 
 ## Interesting projects
 
@@ -19,7 +19,7 @@ Hey, I'm Connor Sample. I started programming around 2014, and I know a wide var
 
 [Velour](https://github.com/TabulateJarl8/velour/) - Velour is a web-based utility which generates customized, post-installation setup scripts for Fedora Linux
 
-[Wordle Finder](https://github.com/TabulateJarl8/wordle-finder) - A cross-platform CLI/GUI utility to assist in finding the word for the game "Wordle" and other similar knock-offs. Written in Rust using WebView for the GUI
+[Rosa](https://gitlab.com/TabulateJarl8/rosa) - Hobbyist operating system written in Rust. Made to learn low-level driver development, it comes with support for features such as basic networking, disk I/O with EXT2, PCI, audio, cooperative multitasking, and more.
 
 [Modpack Switcher](https://github.com/TabulateJarl8/modpackSwitcher) -  Utility to allow for having multiple minecraft worlds/modpacks using one server host
 
@@ -27,9 +27,9 @@ Hey, I'm Connor Sample. I started programming around 2014, and I know a wide var
 ## Programming/Markup Languages
 
 [![Rust](https://img.shields.io/badge/rust-white.svg?style=for-the-badge&logo=rust&logoColor=black)](https://www.rust-lang.org/)
-[![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffce3d)](https://python.org)
+[![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFDC52)](https://python.org)
 [![Bash](https://img.shields.io/badge/Bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS](https://img.shields.io/badge/css-663399.svg?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![LaTeX](https://img.shields.io/badge/latex-008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
