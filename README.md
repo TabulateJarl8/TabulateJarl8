@@ -64,5 +64,5 @@ Hey, I'm Connor Sample. I started programming around 2014, and over the years I'
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
 
 
-![Github Stats](https://github-stats-extended-frontend-three.vercel.app/api?username=TabulateJarl8&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
-![Top Langs](https://github-stats-extended-frontend-three.vercel.app/api/top-langs/?username=TabulateJarl8&hide=TeX,css,scss,jupyter%20notebook,typst,php&langs_count=8&layout=compact&theme=tokyonight&exclude_repo=academiic-public,files,dotfiles,school,betsysite)
+![Github Stats](https://github-stats-extended-pxuzpjbuu-connors-projects-ad80bfa1.vercel.app/api?username=TabulateJarl8&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+![Top Langs](https://github-stats-extended-pxuzpjbuu-connors-projects-ad80bfa1.vercel.app/api/top-langs/?username=TabulateJarl8&hide=TeX,css,scss,jupyter%20notebook,typst,php&langs_count=8&layout=compact&theme=tokyonight&exclude_repo=academiic-public,files,dotfiles,school,betsysite)
